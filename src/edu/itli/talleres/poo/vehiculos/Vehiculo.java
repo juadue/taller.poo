@@ -18,11 +18,16 @@ public class Vehiculo {
 		this.tipo = tipo;
 	}
 	
+	
+	
+	
 	public void imprimirDatos() {
 		System.out.println("Marca: "+ marca);
 		System.out.println("Placa: "+ placa);
 		System.out.println("Tipo: "+ tipo);
 	}
+	
+	
 
 	/**
 	 * @return the marca
